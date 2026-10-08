@@ -1,0 +1,10 @@
+duckdb>=1.0
+jupyter
+matplotlib>=3.8
+nbconvert
+nbformat
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+statsmodels>=0.14
+xgboost>=2.0

@@ -2,9 +2,9 @@
 
 An end-to-end analysis of four years of sales at an office-supplies retailer: data quality checks, a SQL star schema, profitability deep-dive, a sales forecast tested against baselines, and an interactive dashboard.
 
-**[Open the live dashboard](https://hakowxy.github.io/retail-sales-analytics/)** · **[Read the full analysis notebook](notebooks/analysis.ipynb)**
+**[Open the live dashboard](https://xinyangma18.github.io/retail-sales-analytics/)** · **[Read the full analysis notebook](notebooks/analysis.ipynb)**
 
-[![Dashboard preview](images/00_dashboard.png)](https://hakowxy.github.io/retail-sales-analytics/)
+[![Dashboard preview](images/00_dashboard.png)](https://xinyangma18.github.io/retail-sales-analytics/)
 
 ## Key findings
 
@@ -70,4 +70,4 @@ This is the public *Superstore Sales* sample dataset (8,399 order lines, Canada,
 
 ---
 
-Made by [Xinyang Ma](https://github.com/hakowxy) · [LinkedIn](https://www.linkedin.com/in/xinyang-m-122844288/)
+Made by [Xinyang Ma](https://github.com/xinyangma18) · [LinkedIn](https://www.linkedin.com/in/xinyang-m-122844288/)
